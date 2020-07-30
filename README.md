@@ -15,6 +15,7 @@ Looking for new oppotunities to work for a company that is making a difference -
 
 [![Outlook Badge](https://img.shields.io/badge/-williamjgrace@outlook.com-c14438?style=flat-square&Color=blue&link=mailto:williamjgrace@outlook.com)](mailto:williamjgrace@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/-William_Grace-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-grace-b4b171b3/)](https://www.linkedin.com/in/william-grace-b4b171b3/) 
+![Mobile](https://img.shields.io/badge/Mob-%2B447463612481-green)
 
 
 
