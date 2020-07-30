@@ -13,7 +13,7 @@ Hi, I'm Will! I'm a Full Stack Software Engineer and a recent Graduate from Make
 
 Looking for new oppotunities to work for a company that is making a difference - I choose a career in tech because I love leanring new things and meeting new people from different backgrounds! Reach out and say hi 🙌
 
-[![✉️](mailto:williamjgrace@outlook.com)](mailto:williamjgrace@outlook.com)
+[✉️](mailto:williamjgrace@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/-William_Grace-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-grace-b4b171b3/)](https://www.linkedin.com/in/william-grace-b4b171b3/) 
 
 
