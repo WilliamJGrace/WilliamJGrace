@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**WilliamJGrace/WilliamJGrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Will! I'm a Full Stack Software Engineer and a recent Graduate from Makers bootcamp. Currently based in sunny south London ☀️
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 More About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 &nbsp; JavaScript/React/Node/Express | MongoDB/PostgreSQL | Ruby/Ruby on Rails
+- 🧪 &nbsp; RSpec/Capybara/Jest/Enzyme
+- 🎓 &nbsp; BSc Microbiology | Graduate of Makers Bootcamp! 
+- 💼 &nbsp; Previous Experience in Start-ups and Charities
+- 👇 &nbsp; Take a look at my CV and browse some of my projects!
+
+Currently looking for new oppotunities to work for a company making a difference - I love to learn and meet new people so reach out to me for a chat 
