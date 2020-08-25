@@ -5,7 +5,7 @@ Hi, I'm Will! I'm a Full Stack Software Engineer and a recent Graduate from Make
 <h3> 👨🏻‍💻 More About Me </h3>
 
 - 💻 &nbsp; JavaScript/React/Node.js/Express | MongoDB/PostgreSQL | Ruby/Ruby on Rails
-- 🧪 &nbsp; RSpec/Capybara/Jest/Enzyme
+- 🧪 &nbsp; RSpec/Capybara/Jasmine/Jest/Enzyme
 - 🎓 &nbsp; BSc Microbiology | Graduate of Makers Bootcamp! 
 - 💼 &nbsp; Previous Experience in Start-ups and Charities
 - 🎵 &nbsp; Passion for listening to and discovering music (Psttt! if you're a fan of Spotify check out [Road To Discovery](https://road-to-discovery.herokuapp.com/))
