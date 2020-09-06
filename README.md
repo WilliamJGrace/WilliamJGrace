@@ -8,7 +8,7 @@ Hi, I'm Will! I'm a Full Stack Software Engineer and a recent Graduate from Make
 - 🧪 &nbsp; RSpec/Capybara/Jasmine/Jest/Enzyme
 - 🎓 &nbsp; BSc Microbiology | Graduate of Makers Bootcamp
 - 💼 &nbsp; Previous Experience in Start-ups and Charities
-- 🎵 &nbsp; Passion for listening to and discovering music (👉 if you're a fan of Spotify check out [Road To Discovery](https://road-to-discovery.herokuapp.com/))
+- 🎵 &nbsp; Passion for listening to and discovering music (👉  if you're a fan of Spotify check out [Road To Discovery](https://road-to-discovery.herokuapp.com/))
 - 👇 &nbsp; Take a look at my CV and browse some of my projects!
 
 Looking for a new opportunity to work for a company that is making a difference - I chose a career in tech because I love learning new things and meeting new people from different backgrounds! Reach out and say hi 🙌
