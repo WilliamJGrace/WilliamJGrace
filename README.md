@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-Hi, I'm Will! I'm a Full Stack Software Engineer and a recent Graduate from Makers bootcamp. Currently based in sunny south London ☀️
+Hi, I'm Will!
 
 <h3> 👨🏻‍💻 More About Me </h3>
 
