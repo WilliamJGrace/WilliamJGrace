@@ -9,7 +9,7 @@ Hi, I'm Will, A Full Stack Developer currently working at Mumsnet.
 - 🎓 &nbsp; BSc Microbiology | Graduate of Makers Bootcamp
 - 💼 &nbsp; Previous Experience in Start-ups and Charities
 - 🎵 &nbsp; Passion for listening to and discovering music (👉  if you're a fan of Spotify check out [Road To Discovery](https://road-to-discovery.herokuapp.com/))
-- 👇 &nbsp; Take a look at my CV and browse some of my projects!
+- 👇 &nbsp; Take a look at some of my projects!
 
 
 [![Outlook Badge](https://img.shields.io/badge/-williamjgrace@outlook.com-c14438?style=flat-square&Color=blue&link=mailto:williamjgrace@outlook.com)](mailto:williamjgrace@outlook.com)
