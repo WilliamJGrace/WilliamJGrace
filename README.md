@@ -4,12 +4,11 @@ Hi, I'm Will, A Full Stack Developer currently working at Mumsnet.
 
 <h3> 👨🏻‍💻 More About Me </h3>
 
-- 💻 &nbsp; PHP/Laravel/Livewire | Alpine/JavaScript/React/Node.js/Express | HTML, CSS, SASS/Tailwind
-- 🧪 &nbsp; PHPUnit/Jasmine/Jest/Enzyme
+- 💻 &nbsp; PHP/Laravel/Livewire | JavaScript/Vue/Alpone | HTML, CSS, SASS/Tailwind
+- 🧪 &nbsp; PHPUnit/Jest
 - 🎓 &nbsp; BSc Microbiology | Graduate of Makers Bootcamp
 - 💼 &nbsp; Previous Experience in Start-ups and Charities
-- 🎵 &nbsp; Passion for listening to and discovering music (👉  if you're a fan of Spotify check out [Road To Discovery](https://road-to-discovery.herokuapp.com/))
-- 👇 &nbsp; Take a look at some of my projects!
+- 🎵 &nbsp; Passion for listening to and discovering music
 
 
 [![Outlook Badge](https://img.shields.io/badge/-williamjgrace@outlook.com-c14438?style=flat-square&Color=blue&link=mailto:williamjgrace@outlook.com)](mailto:williamjgrace@outlook.com)
