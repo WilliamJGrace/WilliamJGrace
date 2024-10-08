@@ -4,7 +4,7 @@ Hi, I'm Will, A Full Stack Developer currently working at Mumsnet.
 
 <h3> 👨🏻‍💻 More About Me </h3>
 
-- 💻 &nbsp; PHP/Laravel/Livewire | JavaScript/Vue/Alpone | HTML, CSS, SASS/Tailwind
+- 💻 &nbsp; PHP/Laravel/Livewire | JavaScript/Vue/Alpine | HTML, CSS, SASS/Tailwind
 - 🧪 &nbsp; PHPUnit/Jest
 - 🎓 &nbsp; BSc Microbiology | Graduate of Makers Bootcamp
 - 💼 &nbsp; Previous Experience in Start-ups and Charities
